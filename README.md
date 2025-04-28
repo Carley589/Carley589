@@ -40,8 +40,28 @@
 
 ---
 
-## 🚀 Projects
-- 📂 [Carlene Brown Portfolio](https://github.com/Carley589/carlene-brown-portfolio)
+## 📚 Projects
+
+### 📚 Motivation, College Integration, and Intentions to Persist Among First-Generation College Students: A Latent Class Approach
+A quantitative study using latent class analysis (LCA) to examine motivation profiles among 414 first-generation college students (FGCS). Findings identified three distinct motivation profiles, with higher motivation linked to greater college integration and stronger persistence intentions. The study highlights the diverse motivational patterns within FGCS populations and implications for career development support.
+
+### 🧠 The Effect of Exercise and Nutrition on Cognitive Decline
+A quantitative study using the 2019 Behavioral Risk Factor Surveillance System (BRFSS) dataset to explore how lifestyle factors relate to subjective cognitive decline. Findings suggested that increased fruit and vegetable consumption, along with regular exercise, were associated with reduced cognitive decline.
+
+### 🥗 Moderating Effects of Nutrition on the Relationship Between Adverse Childhood Experiences & Health-Related Quality of Life
+This structural equation modeling (SEM) project assessed whether nutrition moderates the impact of adverse childhood experiences (ACEs) on adult health-related quality of life. While ACEs significantly predicted lower quality of life, moderation by nutrition was not supported.
+
+### 🕊️ Beyond Grief: A Case Study Examining the Perspectives of Vaccine Hesitancy in Bereaved Parents and Grandparents
+A qualitative case study exploring how bereaved parents and grandparents who attribute a child’s death to vaccines form and express vaccine-hesitant beliefs. Narrative analysis illuminated how grief shapes health-related decision-making and vaccine attitudes.
+
+### 💉 Journey of Decisions: Understanding Parental Perspectives on Vaccine Hesitancy and Decision-Making Approaches in Childhood Vaccinations
+An explanatory sequential mixed-methods dissertation investigating predictors and perspectives of vaccine hesitancy among parents of children under 18. This study also compared AI-assisted qualitative analyses with traditional ones, contributing to discussions on AI’s role in research.
+
+### 📊 Women in Statistics: An Ethnographic Study
+Explored how female graduate students experience gender dynamics in academic and research settings, uncovering varied perceptions of gender equity shaped by cultural background.
+
+### 🥦 Dietary Patterns & Health Literacy
+Explored whether health literacy levels differ among adults following vegan, vegetarian, or omnivorous diets, emphasizing the need for inclusive health education.
 
 ---
 
