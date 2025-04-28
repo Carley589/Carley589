@@ -61,9 +61,6 @@ An explanatory sequential mixed-methods dissertation investigating predictors an
 ### 📊 Women in Statistics: An Ethnographic Study
 Explored how female graduate students experience gender dynamics in academic and research settings, uncovering varied perceptions of gender equity shaped by cultural background.
 
-### 🥦 Dietary Patterns & Health Literacy
-Explored whether health literacy levels differ among adults following vegan, vegetarian, or omnivorous diets, emphasizing the need for inclusive health education.
-
 ---
 
 ## 🤝 Let's Connect!
