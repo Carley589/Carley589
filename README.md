@@ -9,9 +9,9 @@
 ## 🛠️ Skills and Expertise
 
 ### 📈 Statistical Analysis & Research Methods
-- Quantitative Analysis | Qualitative Analysis | Mixed Methods
-- Thematic Analysis | Narrative Analysis
-- Logistic Regression | Linear Regression | ANOVA
+- Quantitative Analysis | Qualitative Analysis | Mixed-Methods
+- Thematic Analysis | Narrative Analysis | Content Analysis
+- Logistic Regression | Linear Regression | ANOVA | Structural Equation Modeling
 - Psychometrics | Survey Design | Program Evaluation
 
 ### 🖥️ Data Tools & Software
