@@ -52,7 +52,7 @@ A quantitative study using the 2019 Behavioral Risk Factor Surveillance System (
 ### 🥗 [Moderating Effects of Nutrition on the Relationship Between Adverse Childhood Experiences and Health-Related Quality of Life](https://github.com/Carley589/Moderating-Effects-of-Nutrition)
 This structural equation modeling (SEM) project assessed whether nutrition moderates the impact of adverse childhood experiences (ACEs) on adult health-related quality of life. While ACEs significantly predicted lower quality of life, moderation by nutrition was not supported.
 
-### 🕊️ [Beyond Grief: A Case Study Examining the Perspectives of Vaccine Hesitancy in Bereaved Parents and Grandparents](README.md)
+### 🕊️ [Beyond Grief: A Case Study Examining the Perspectives of Vaccine Hesitancy in Bereaved Parents and Grandparents](./README.md)
 A qualitative case study exploring how bereaved parents and grandparents who attribute a child’s death to vaccines form and express vaccine-hesitant beliefs. Narrative analysis illuminated how grief shapes health-related decision-making and vaccine attitudes.
 
 ### 💉 Journey of Decisions: Understanding Parental Perspectives on Vaccine Hesitancy and Decision-Making Approaches in Childhood Vaccinations
