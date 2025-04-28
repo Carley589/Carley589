@@ -39,7 +39,7 @@
 - Strong Written & Verbal Communication
 - Public Speaking | Manuscript Preparation | Conference Presentations
 
-Explore my professional experience and qualifications in detail.
+### Explore my professional experience and qualifications in detail.
 ## 📄 [Resume](https://github.com/Carley589/Carley589/blob/main/Carlene%20Brown%20Resume_.pdf)
 ---
 ## 📚 Projects
