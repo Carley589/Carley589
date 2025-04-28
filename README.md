@@ -45,10 +45,9 @@
 ### 📚 [Motivation, College Integration, and Intentions to Persist Among First-Generation College Students: A Latent Class Approach](https://journals.sagepub.com/doi/abs/10.1177/08948453231157757)
 A quantitative study using latent class analysis (LCA) to examine motivation profiles among 414 first-generation college students (FGCS). Findings identified three distinct motivation profiles, with higher motivation linked to greater college integration and stronger persistence intentions. The study highlights the diverse motivational patterns within FGCS populations and implications for career development support.
 
-### 🧠 The Effect of Exercise and Nutrition on Cognitive Decline
+### 🧠 [The Effect of Exercise and Nutrition on Cognitive Decline](https://github.com/Carley589/Exercise-Nutrition-Cognitive-Decline)
 A quantitative study using the 2019 Behavioral Risk Factor Surveillance System (BRFSS) dataset to explore how lifestyle factors relate to subjective cognitive decline. Findings suggested that increased fruit and vegetable consumption, along with regular exercise, were associated with reduced cognitive decline.
 
-[🔗 View Project](https://github.com/Carley589/Exercise-Nutrition-Cognitive-Decline)
 
 ### 🥗 Moderating Effects of Nutrition on the Relationship Between Adverse Childhood Experiences & Health-Related Quality of Life
 This structural equation modeling (SEM) project assessed whether nutrition moderates the impact of adverse childhood experiences (ACEs) on adult health-related quality of life. While ACEs significantly predicted lower quality of life, moderation by nutrition was not supported.
