@@ -49,7 +49,7 @@ A quantitative study using latent class analysis (LCA) to examine motivation pro
 A quantitative study using the 2019 Behavioral Risk Factor Surveillance System (BRFSS) dataset to explore how lifestyle factors relate to subjective cognitive decline. Findings suggested that increased fruit and vegetable consumption, along with regular exercise, were associated with reduced cognitive decline.
 
 
-### 🥗 Moderating Effects of Nutrition on the Relationship Between Adverse Childhood Experiences & Health-Related Quality of Life
+### 🥗 [Moderating Effects of Nutrition on the Relationship Between Adverse Childhood Experiences and Health-Related Quality of Life](https://github.com/Carley589/Moderating-Effects-of-Nutrition)
 This structural equation modeling (SEM) project assessed whether nutrition moderates the impact of adverse childhood experiences (ACEs) on adult health-related quality of life. While ACEs significantly predicted lower quality of life, moderation by nutrition was not supported.
 
 ### 🕊️ Beyond Grief: A Case Study Examining the Perspectives of Vaccine Hesitancy in Bereaved Parents and Grandparents
