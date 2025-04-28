@@ -48,6 +48,8 @@ A quantitative study using latent class analysis (LCA) to examine motivation pro
 ### 🧠 The Effect of Exercise and Nutrition on Cognitive Decline
 A quantitative study using the 2019 Behavioral Risk Factor Surveillance System (BRFSS) dataset to explore how lifestyle factors relate to subjective cognitive decline. Findings suggested that increased fruit and vegetable consumption, along with regular exercise, were associated with reduced cognitive decline.
 
+[🔗 Visit the Repository](https://github.com/Carley589/Exercise-Nutrition-Cognitive-Decline)
+
 ### 🥗 Moderating Effects of Nutrition on the Relationship Between Adverse Childhood Experiences & Health-Related Quality of Life
 This structural equation modeling (SEM) project assessed whether nutrition moderates the impact of adverse childhood experiences (ACEs) on adult health-related quality of life. While ACEs significantly predicted lower quality of life, moderation by nutrition was not supported.
 
