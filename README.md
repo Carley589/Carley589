@@ -1,4 +1,4 @@
-# Hello, I'm Carlene Brown! 👋
+# Hello, I'm Carlene Brown! 
 
 🎓 Ph.D. in Applied Statistics and Research Methods  
 📚 Mixed-Methods Researcher | Applied Statistician  
@@ -42,7 +42,7 @@
 
 ## 📚 Projects
 
-### 📚 Motivation, College Integration, and Intentions to Persist Among First-Generation College Students: A Latent Class Approach
+### 📚 [Motivation, College Integration, and Intentions to Persist Among First-Generation College Students: A Latent Class Approach](https://journals.sagepub.com/doi/abs/10.1177/08948453231157757)
 A quantitative study using latent class analysis (LCA) to examine motivation profiles among 414 first-generation college students (FGCS). Findings identified three distinct motivation profiles, with higher motivation linked to greater college integration and stronger persistence intentions. The study highlights the diverse motivational patterns within FGCS populations and implications for career development support.
 
 ### 🧠 The Effect of Exercise and Nutrition on Cognitive Decline
