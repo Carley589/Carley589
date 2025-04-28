@@ -1,6 +1,6 @@
 # Hello, I'm Carlene Brown! 
 
-### 🎓 Education
+## 🎓 Education
 🎓 Ph.D. in Applied Statistics and Research Methods  
 📚 Mixed-Methods Researcher | Applied Statistician  
 💬 Passionate about blending numbers and narratives.
