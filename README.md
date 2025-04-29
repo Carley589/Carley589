@@ -5,7 +5,7 @@ I am a mixed-methods researcher and applied statistician passionate about blendi
 ## 🎓 Education
 🎓 Ph.D., Applied Statistics and Research Methods | University of Northern Colorado | December 2024  
 📚 M.S., Applied Statistics and Research Methods | University of Northern Colorado | August 2021  
-💬 B.A., Psychology | University of Northern Colorado | August 2019  
+🧠 B.A., Psychology | University of Northern Colorado | August 2019  
 
 ---
 
