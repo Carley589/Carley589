@@ -1,6 +1,6 @@
 # Hello, I'm Carlene Brown! 
 
-I am a mixed-methods researcher and applied statistician passionate about blending numbers and narratives.f
+I am a mixed-methods researcher and applied statistician passionate about blending numbers and narratives.
 
 ## 🎓 Education
 🎓 Ph.D., Applied Statistics and Research Methods | University of Northern Colorado | December 2024  
