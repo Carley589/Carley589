@@ -29,9 +29,10 @@ I am a mixed-methods researcher and applied statistician passionate about blendi
 
 ### 🏢 Professional Experience
 - Graduate-Level Instruction | Academic Coaching
-- Stakeholder Communication | Webinar Facilitation
+- Stakeholder Communication | Research Study Development & Implementation
 - Content Development | Literature Review
-- Interviewing & Transcription
+- Manuscript Writing | Evaluations
+- Interviewing & Transcription | Webinar Facilitation
 
 ### 🤖 AI & Technology Integration
 - AI-Assisted Thematic Analysis | Prompt Engineering
